@@ -1,8 +1,24 @@
-# React + Vite
+# 📚 Book Finder App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React + TailwindCSS application to search for books using the **Open Library API**.  
+Built for learning React fundamentals, API integration, and quick deployment with **CodeSandbox**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- 🔍 Search for books by title, author, or keyword  
+- 📖 Displays book title, author(s), and cover image (if available)  
+- ⚡ Powered by **Open Library API**  
+- 🎨 Styled with TailwindCSS for responsiveness  
+
+---
+
+## 🛠️ Tech Stack
+- **React (Vite)** – Frontend framework  
+- **TailwindCSS** – Styling  
+- **Open Library API** – Data source  
+- **CodeSandbox** – Quick deployment  
+
+---
+
+## 📂 Project Structure
